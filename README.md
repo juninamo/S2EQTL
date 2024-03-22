@@ -15,7 +15,7 @@ XXX. [*XXX*](https://XXX), doi:[XXX](https://XXX)
 &nbsp;&nbsp;
 
 ## Contact us
-Please contact us (Jun Inamo: juninamo.gfd@mri.tmd.ac.jp) with any questions or comments.
+Please contact us (Jun Inamo: JUN.INAMO@CUANSCHUTZ.EDU) with any questions or comments.
 
 ## Acknowledgments
 This study was supported by XXX.
